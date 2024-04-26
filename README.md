@@ -1,6 +1,6 @@
 # HASHIWOKAKERO (BRIDGES) 
 
-###### Projet par Jad FAWAZ, Mohamad EL CHAMAA, Anthony TAHA, Sam HAJJ ASSAF
+###### Projet par Jad, Mohamad, Anthony, Sam
 
 ---
 
