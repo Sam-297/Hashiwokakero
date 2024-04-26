@@ -1,0 +1,1 @@
+cnf ((BL+LB)<>(EF+FE)).((BL+LB)<>(FE+EF)).((EF+FE)<>(LB+BL)).((FE+EF)<>(LB+BL));

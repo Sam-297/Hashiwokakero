@@ -1,0 +1,1 @@
+(-BL+-EF) . (-BL+-FE) . (BL+LB+EF+FE) . (-LB+-EF) . (-LB+-FE)

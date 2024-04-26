@@ -1,0 +1,1 @@
+(AE) . (EA) . (BL) . (LB) . (-BC+-CB) . (BC+CB) . (-CP+-PC) . (CP+PC) . (CD) . (DC) . (DI) . (ID) . (EK) . (KE) . (-EF) . (-FE) . (-FM+-MF) . (FM+MF) . (-FG+-GF) . (FG+GF) . (-GH+-HG) . (GH+HG) . (-HN+-NH) . (HN+NH) . (-IJ) . (-JI) . (JQ) . (QJ) . (KL) . (LK) . (-LM+-ML) . (LM+ML) . (-MN+-NM) . (MN+NM) . (-OP+-PO) . (OP+PO) . (-PQ+-QP) . (PQ+QP)
